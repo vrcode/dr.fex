@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dr. Fex</string>
+    <string name="action_settings">Settings</string>
+    <string name="dir_reading">Loading...</string>
+    <string name="dir_empty">No Files Found</string>
+    <string name="cr">Copyright 2014 VRCode</string>
+    <string name="go_to_data_data">Go to /data/data</string>
+
+</resources>
